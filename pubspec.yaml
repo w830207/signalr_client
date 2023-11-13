@@ -15,7 +15,7 @@ dependencies:
   web_socket_channel: ^2.4.0
   sse_channel: ^0.0.3
   message_pack_dart: ^2.0.1
-  http: ^0.13.6
+  http: ^1.1.0
 
 dev_dependencies:
   test: ^1.16.2
